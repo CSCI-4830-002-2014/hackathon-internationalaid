@@ -7,6 +7,13 @@
 
 # Connect to MongoLab:
 mongo ds051170.mongolab.com:51170/aiddata-hack -u datauser -p datapass
+database: aiddata-hack
+collection: hack_aid
+
+# Mongo Query's:
+var r = db.hack_aid.aggregate([{ $match:{"recipient": "Sudan" } },{$group:{"_id":"$year",total:{$sum:"$disbursement_amount"} } }]);
+var sum = 0;
+r.forEach(function(d) { sum = sum + d.total; } )
 
 # Objective 1. Identify a two countries to compare.
 
