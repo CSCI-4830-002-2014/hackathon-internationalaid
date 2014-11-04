@@ -4,6 +4,7 @@
 * [Austin Wood](https://github.com/indiesquidge)
 * [Sam Korn](https://github.com/sako0938)
 * [Peyman Mo](https://github.com/peymanmortazavi)
+* [Ryan Roden](https://github.com/rodenr)
 
 # Connect to MongoLab:
 mongo ds051170.mongolab.com:51170/aiddata-hack -u datauser -p datapass
