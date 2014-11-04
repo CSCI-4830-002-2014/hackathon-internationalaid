@@ -55,9 +55,17 @@ By looking at the graph above, you can see over a 10 fold increase in Sudan's di
 
 ### Before Trends
 
+##### Real GDP Growth of Libya
+2003 | 2004 |	2005
+13% |	4.4% | 11.9%
+
 ![supporting screenshots](image.png?raw=true) 
 
 ### After Trends
+
+##### Real GDP Growth of Sudan
+2003 | 2004 | 2005
+7.1% | 5.1% | 0.4%
 
 ![supporting screenshots](image.png?raw=true) 
 
