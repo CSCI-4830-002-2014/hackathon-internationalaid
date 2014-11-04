@@ -1,11 +1,9 @@
 # Team Members
 
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-
+* [Alexia Newgord](https://github.com/alne4294)
+* [Austin Wood](https://github.com/indiesquidge)
+* [Sam Korn](https://github.com/sako0938)
+* [Peyman Mo](https://github.com/peymanmortazavi)
 
 # Objective 1. Identify a two countries to compare.
 
