@@ -64,7 +64,7 @@ We wanted to look at the data for an entire calender year for each country to ge
 
 ### Differences
 
-{{explanation of your observations}}
+The two countries have very different needs when it comes to areas of international aid. The ivory coast has many funds allocated to debt forgiveness and teaching repsonsible spending, while Eritrea has lots of funds dedicated to disaster relief, being a violent country, and HIV/AIDS support which is a huge problem in this country.
 
 
 # Objective 3. Bring in other data sets to help you with your hypothesis.
