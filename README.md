@@ -5,6 +5,9 @@
 * [Sam Korn](https://github.com/sako0938)
 * [Peyman Mo](https://github.com/peymanmortazavi)
 
+# Connect to MongoLab:
+mongo ds051170.mongolab.com:51170/aiddata-hack -u datauser -p datapass
+
 # Objective 1. Identify a two countries to compare.
 
 | "High Aid" Country | {{country name}} | {{aid total}} |
