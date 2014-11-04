@@ -1,9 +1,8 @@
 # Team Members
 
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
+* [Adrian Chen](URL to this member's github account)
+* [Brian Newsom](URL to this member's github account)
+* [Dawson Botsford](URL to this member's github account)
 * [name-of-a-team-member](URL to this member's github account)
 
 
