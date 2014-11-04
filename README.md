@@ -1,9 +1,9 @@
 # Team Members
 
-* [Adrian Chen](URL to this member's github account)
-* [Brian Newsom](URL to this member's github account)
-* [Dawson Botsford](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
+* [Adrian Chen](https://github.com/adrian-chen/)
+* [Brian Newsom](https://github.com/briannewsom/)
+* [Dawson Botsford](https://github.com/dawsonbotsford/)
+* [Daniel Nolin](https://github.com/dano8957/)
 
 
 # Objective 1. Identify a two countries to compare.
