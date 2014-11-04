@@ -17,7 +17,9 @@
 
 ## Aid Timeline
 
-![screenshot of the timeline analysis](image.png?raw=true) 
+[Imgur](http://i.imgur.com/4kVwj1W.png) = Aid over time period between the two countries.
+[Imgur](http://i.imgur.com/VjHr7pg.png) = Aid and its relation to Health indicators.
+[Imgur](http://i.imgur.com/GyMAkZj.png) = One more.
 
 ## Chosen Timeframe did you analyze and how did you pick that?
 
