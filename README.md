@@ -26,7 +26,8 @@ As a result, between 2009 and 2010, Liberia saw a dramatic increase in aid to su
 Liberia 2009: $363 million
 Liberia 2010: $551 million
 
-![screenshot of the timeline analysis](image.png?raw=true) 
+![screenshot of the timeline analysis](queryEritrea.png?raw=true) 
+![screenshot of the timeline analysis](ivoryCoastQuery.png?raw=true) 
 
 ## Chosen Timeframe did you analyze and how did you pick that?
 
