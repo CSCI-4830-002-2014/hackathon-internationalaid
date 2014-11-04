@@ -73,4 +73,4 @@ Liberia 2010: $551 million
 
 ## Conclusions
 
-{{your hypothesis on the best approach for international development}}
+More media coverage seems to be highly correlated with the amount of aid that countries receive. During 2009, Liberia received much greater amounts of aid money, coinciding with larger media coverage of the refugee influx frmo other countries.
