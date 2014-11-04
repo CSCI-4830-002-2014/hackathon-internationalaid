@@ -3,13 +3,13 @@
 * [Adrian Chen](https://github.com/adrian-chen/)
 * [Brian Newsom](https://github.com/briannewsom/)
 * [Dawson Botsford](https://github.com/dawsonbotsford/)
-* [Daniel Nolin](https://github.com/dano8957/)
+* [Daniel Nolan](https://github.com/dano8957/)
 
 
 # Objective 1. Identify a two countries to compare.
 
-| "High Aid" Country | {{country name}} | {{aid total}} |
-| "Low Aid" Country | {{country name}} | {{aid total}} |
+| "High Aid" Country | {{Haiti}} | {{aid total}} |
+| "Low Aid" Country | {{}} | {{aid total}} |
 
 
 # Objective 2. Analyze events occurring within each country to develop a hypothesis on the effect of aid.
