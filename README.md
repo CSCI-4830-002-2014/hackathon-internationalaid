@@ -53,14 +53,19 @@ The GDP for Nigeria has actually declined in the years
 
 ### Differences
 
-Libya's GDP has been extremely volatile and doesn't seem to be affected by their aid.
+Libya's GDP has been extremely volatile and doesn't seem to be affected by their aid. This is probably due to the instability and violence enveloping the country. Nigeria's GDP growth started out high and has been steadily declining. 
 
 
 # Objective 3. Bring in other data sets to help you with your hypothesis.
 
-{{link to additional data sets that helped/could help this analysis}}
+[CIA World Factbook: Libya](https://www.cia.gov/library/publications/the-world-factbook/geos/ly.html)
 
+![supporting screenshots](CIA_Libya_Facts.png?raw=true) 
+
+[CIA World Factbook: Nigeria](https://www.cia.gov/library/publications/the-world-factbook/geos/ni.html)
+
+![supporting screenshots](CIA_Nigeria_Facts.png?raw=true) 
 
 ## Conclusions
 
-{{your hypothesis on the best approach for international development}}
+In conclusion, foreign aid works very well with improving the health of developing countries, but it does not help improve economic growth.  
