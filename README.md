@@ -10,8 +10,8 @@
 
 # Objective 1. Identify a two countries to compare.
 
-| "High Aid" Country | Liberia | 551103587.6762842 |
-| "Low Aid" Country | Eritrea | 57990804.0259842 |
+| "High Aid" Country | Cote D'Ivoire | 547,117,518.5987135 |
+| "Low Aid" Country | Eritrea | 57,990,804.0259842 |
 
 
 # Objective 2. Analyze events occurring within each country to develop a hypothesis on the effect of aid.
