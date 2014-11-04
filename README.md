@@ -45,16 +45,13 @@ By looking at the graph above, you can see over a 10 fold increase in Sudan's di
 
 ### Before Trends
 
-![supporting screenshots](image.png?raw=true) 
-
-### After Trends
-
-![supporting screenshots](image.png?raw=true) 
+![supporting screenshots](img/sudan_data.png?raw=true) 
+![supporting screenshots](img/sudan_data2.png?raw=true) 
 
 ### Differences
 
-{{explanation of your observations}}
-
+Sudan definitely had more commitments over time, not only reflecting on it's own
+growth, but also when compared to Libya.
 
 ## "Low Aid" Country
 
@@ -65,24 +62,16 @@ By looking at the graph above, you can see over a 10 fold increase in Sudan's di
 
 ### Before Trends
 
-
-![supporting screenshots](image.png?raw=true) 
-
-### After Trends
-
-
-![supporting screenshots](image.png?raw=true) 
+![supporting screenshots](img/libya_data.png?raw=true) 
+![supporting screenshots](img/libya_data2.png?raw=true) 
 
 ### Differences
 
-{{explanation of your observations}}
-
+As you can see, Libya has made very few commitments (only one really). Their GDP
+seemed to also correlate with this as well.
 
 # Objective 3. Bring in other data sets to help you with your hypothesis.
 
-{{link to additional data sets that helped/could help this analysis}}
+[Sudan research](http://data.worldbank.org/country/sudan)
+[Libya research](http://data.worldbank.org/country/libya)
 
-
-## Conclusions
-
-{{your hypothesis on the best approach for international development}}
