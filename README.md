@@ -28,6 +28,7 @@ Liberia 2010: $551 million
 
 ![screenshot of the timeline analysis](queryEritrea.png?raw=true) 
 ![screenshot of the timeline analysis](ivoryCoastQuery.png?raw=true) 
+![screenshot of the timeline analysis](ci\ vs\ er.png)
 
 ## Chosen Timeframe did you analyze and how did you pick that?
 
