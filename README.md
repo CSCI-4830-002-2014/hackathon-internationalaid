@@ -18,22 +18,22 @@ r.forEach(function(d) { sum = sum + d.total; } )
 
 # Objective 1. Identify a two countries to compare.
 
-| "High Aid" Country | {{country name}} | {{aid total}} |
-| "Low Aid" Country | {{country name}} | {{aid total}} |
-
+| "High Aid" Country | Sudan | ~9 billion |
+| "Low Aid" Country  | Libya | ~150 million |
 
 # Objective 2. Analyze events occurring within each country to develop a hypothesis on the effect of aid.
 
 ## Aid Timeline
 
-![screenshot of the timeline analysis](image.png?raw=true) 
+![screenshot of the timeline analysis](img/aid_timeline.png?raw=true) 
 
 ## Chosen Timeframe did you analyze and how did you pick that?
 
-| {{country name}} | {{start datel}} | {{end datel}} |
-| {{country name}} | {{start datel}} | {{end datel}} |
+| Sudan | 2003 | 2005 |
+| Libya | 2003 | 2005 |
 
-{{explain why you picked these dates}}
+By looking at the graph above, you can see over a 10 fold increase in Sudan's disbursement
+(from ~100 million to ~1 billion in less than 2 years) while Libya stayed virtually the same.
 
 
 ## "High Aid" Country
