@@ -1,16 +1,17 @@
 # Team Members
 
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
+* [Mike Fyk](URL to this member's github account)
+* [Alex Tsankov](https://github.com/antsankov/)
+* [Justin McBride](http://github.com/dare599z)
+* [Irfan Nadiadi](http://github.com/irfann1)
+* [Mike Fyk](http://github.com/thefyk)
+* [Logan Bates](http://github.com/loganbates)
 
 
 # Objective 1. Identify a two countries to compare.
 
-| "High Aid" Country | {{country name}} | {{aid total}} |
-| "Low Aid" Country | {{country name}} | {{aid total}} |
+| "High Aid" Country | Liberia | 551103587.6762842 |
+| "Low Aid" Country | Eritrea | 57990804.0259842 |
 
 
 # Objective 2. Analyze events occurring within each country to develop a hypothesis on the effect of aid.
