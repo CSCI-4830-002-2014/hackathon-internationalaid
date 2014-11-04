@@ -8,8 +8,8 @@
 
 # Objective 1. Identify a two countries to compare.
 
-| "High Aid" Country | {{Haiti}} | {{aid total}} |
-| "Low Aid" Country | {{}} | {{aid total}} |
+| "High Aid" Country | Haiti | 377000000 |
+| "Low Aid" Country | United States | 231004 |
 
 
 # Objective 2. Analyze events occurring within each country to develop a hypothesis on the effect of aid.
@@ -20,10 +20,10 @@
 
 ## Chosen Timeframe did you analyze and how did you pick that?
 
-| {{country name}} | {{start datel}} | {{end datel}} |
-| {{country name}} | {{start datel}} | {{end datel}} |
+| Haiti | January 1st, 2010 | December 31st, 2010 |
+| United States | October 31st, 2012 | November 31st, 2012 |
 
-{{explain why you picked these dates}}
+So we could download the least amount possible, we picked minimal data points, so we could download data in time.
 
 
 ## "High Aid" Country
