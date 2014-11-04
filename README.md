@@ -53,7 +53,7 @@ The GDP for Nigeria has actually declined in the years
 
 ### Differences
 
-It seems like Nigeria's aid hasn't affected their GDP at all.
+Libya's GDP has been extremely volatile and doesn't seem to be affected by their aid.
 
 
 # Objective 3. Bring in other data sets to help you with your hypothesis.
