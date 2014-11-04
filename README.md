@@ -31,10 +31,10 @@ Liberia 2010: $551 million
 
 ## Chosen Timeframe did you analyze and how did you pick that?
 
-| {{country name}} | {{start datel}} | {{end datel}} |
-| {{country name}} | {{start datel}} | {{end datel}} |
+| Eritrea | Jan 1, 2010 | Dec 31, 2010 |
+| Ivory Coast | Jan 1, 2010 | Dec 31, 2010 |
 
-{{explain why you picked these dates}}
+We wanted to look at the data for an entire calender year for each country to get data from a large number of events.
 
 
 ## "High Aid" Country
