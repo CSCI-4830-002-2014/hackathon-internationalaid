@@ -18,6 +18,14 @@
 
 ## Aid Timeline
 
+2010 - 2011: Ivorian Crisis
+In 2009, Ivory Coast received $2.2 Billion in aid, but 2010 saw a significant decline in aid, down to about $500 million. The Ivory Coast had its first election in 10 years, and after Alassane Ouattara lost the elction, he began his military offensive and took control of the country. Many citizens fled the country, specifically to Liberia.
+
+As a result, between 2009 and 2010, Liberia saw a dramatic increase in aid to support Ivory Coast refugees. 
+
+Liberia 2009: $363 million
+Liberia 2010: $551 million
+
 ![screenshot of the timeline analysis](image.png?raw=true) 
 
 ## Chosen Timeframe did you analyze and how did you pick that?
